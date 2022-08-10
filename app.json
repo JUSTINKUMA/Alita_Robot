@@ -1,5 +1,5 @@
 {
-  "name": "Alita_Robot",
+  "name": "ＴＨＥܔＳＨＥＩＬＤ",
   "description": "Alita is a Telegram Group management bot made using Pyrogram and Python, which makes it modern and faster than most of the Telegram chat managers.",
   "keywords": [
     "telegram bot",
@@ -41,17 +41,17 @@
     "OWNER_ID": {
       "description": "Your user ID as an integer.",
       "required": true,
-      "value": "1198820588"
+      "value": "5065752827"
     },
     "SUPPORT_GROUP": {
       "description": "Your Telegram support group chat username where user's can contact in case of a problem..",
       "required": true,
-      "value": "DivideProjects"
+      "value": "SHEILDSUPPORT"
     },
     "MESSAGE_DUMP": {
       "description": "Event logs channel where bot will send updates.",
       "required": true,
-      "value": "-100123456798"
+      "value": "-746521616"
     },
     "VERSION": {
       "description": "A Version to be shown in bot.",
@@ -70,7 +70,7 @@
     },
     "SUPPORT_CHANNEL": {
       "description": "Channel where bot uodates will be posted!",
-      "value": "AlitaUpdates"
+      "value": "SHEILDUPDATESS"
     },
     "SUDO_USERS": {
       "description": "A space separated list of user IDs who you want to assign as sudo users.",
